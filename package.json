@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "A simple protractor project that has page objects",
   "author": "Hayden Meloche",
+  "license": "The Unlicense",
+  "repository": "https://github.com/HaydenMeloche/Protractor-With-Page-Objects-Starter-Code", 
   "dependencies": {
     "protractor": "^5.1.2",
     "webdriver-manager": "^12.0.6"
